@@ -1,4 +1,4 @@
-# Executive Summary
-# Information System Components
-# GitHub
-# Conclusion
+## Executive Summary
+## Information System Components
+## GitHub
+## Conclusion
