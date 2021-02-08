@@ -10,6 +10,10 @@ Smartphones consist of several **hardware** components such as the display (usua
 
 While smartphones allow for users to access **data** through the use of apps and access to the internet, smartphones also collect data about its user - ranging from basic contact/personal information such as name, phone number, e-mail address all the way to the users location, app/account usage, and even total screen time. 
 
+As the most convenient and readily accessible information system available, smartphones encompass a wide range of **people** who act as users and interact with apps. There are also those who serve as developers for apps and the software which drives the apps/programs available on smartphones.
+
+
+
 #### GitHub
   ##### Client-Server Architecture
   ##### Cloud Computing
