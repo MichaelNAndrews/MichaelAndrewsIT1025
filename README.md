@@ -8,7 +8,7 @@ Smartphones consist of several **hardware** components such as the display (usua
 
 **Software** for most smartphones either utilize Google Android or Apple Operating Systems. 
 
-
+While smartphones allow for users to access **data** through the use of apps and access to the internet, smartphones also collect data about its user - ranging from basic contact/personal information such as their name, phone number, e-mail address all the way to the users location, app/account usage, and even total screen time. 
 
 #### GitHub
   ##### Client-Server Architecture
