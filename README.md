@@ -3,7 +3,12 @@ Lab 1 of IT1025 serves as an introduction to computing history and lays the foun
 ### Information System Components
 Information systems can be viewed as having five major components: **_hardware, software, data, people_**, and **_processes_**.
 #### In Everyday Life...
-**Smartphones** are likely the most used actively used information system in current modern day life.
+**Smartphones** are likely the most actively used information system in current modern day life.
+Smartphones consist of several **hardware** components such as the display (usually LCD or LED), battery, modem, memory chip, and the system on a chip. Additionally, smartphones now come equipped with cameras and sensors to allow for touch-enabled functionality. 
+
+**Software** for most smartphones either utilize Google Android or Apple Operating Systems. 
+
+
 
 #### GitHub
   ##### Client-Server Architecture
