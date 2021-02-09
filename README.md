@@ -21,12 +21,14 @@ The power of micro-computing that smartphones provide to us allow for a wide ran
   
   On the otherhand, to perform action with programming language not known by the computer, access to a **server** will be required. The difference between client-side and server-side in this sense depends on what a user can do without being connected to the internet and what one can only do by being connected to the internet.
   
-  **GitHub desktop** is an example of the client-side - as the GitHub desktop tool is designed so users can interact and work with GitHub without connecting through their browser.
+ **GitHub desktop** is an example of the client-side - as the GitHub desktop tool is designed so users can interact and work with GitHub without connecting through their browser.
   
   #### Cloud Computing
   
   GitHub also exemplifies **Cloud Computing** as - to use the definition from microsoft.com (https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/) - "cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale."
   
-  GitHub allows for us to write and commit changes from one device and share them to any device that has permissions to our repository. Users with permissions are thus also able to edit and commit their own changes independent of their geographic location in relation to the initial user. **The cloud** creates a shared space that exists anywhere (so long as their is internet connectivity) to make, share, and contribute ideas.
+GitHub allows for us to write and commit changes from one device and share them to any device that has permissions to our repository. Users with permissions are thus also able to edit and commit their own changes independent of their geographic location in relation to the initial user. 
+
+**The cloud** creates a shared space that exists anywhere (so long as their is internet connectivity) to make, share, and contribute ideas.
   
 ### Conclusion
