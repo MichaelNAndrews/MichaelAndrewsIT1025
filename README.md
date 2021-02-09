@@ -17,7 +17,9 @@ The power of micro-computing that smartphones provide to us allow for a wide ran
 #### GitHub
   #### Client-Server Architecture
   Git-Hub utilizes **Client-Server Architecture** which obviously consist of two components: the client & the server. 
-  The **Client-Side** consists of any action that can be performed separate from being connected to the internet - for instance, programming language like JavaScript can be understood by almost any computer, so a connection to a server is not required to perform action using JavaScript. 
+  The **Client-Side** consists of any action that can be performed separate from being connected to the internet - for instance, programming language like JavaScript can be understood by almost any computer, so a connection to a server is not required to perform action using JavaScript.
+  
   On the otherhand, to perform action with programming language not known by the computer, access to a **server** will be required. The difference between client-side and server-side in this sense depends on what a user can do without being connected to the internet and what one can only do by being connected to the internet.
+  
   #### Cloud Computing
 ### Conclusion
