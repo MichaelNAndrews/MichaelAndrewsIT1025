@@ -12,7 +12,7 @@ While smartphones allow for users to access **data** through the use of apps and
 
 As the most convenient and readily accessible information system available, smartphones encompass a wide range of **people** who act as users and interact with apps. There are also those who serve as developers for apps and the software which drives the apps/programs available on smartphones.
 
-
+The power of micro-computing that smartphones provide to us allow for a wide range of **processes** to be executed on a daily basis. From serving as internet communicators, to making phone calls and sending text messaged, to even being handheld video game machines, smarthpones enhance our lives by making the world feel smaller and serving to connect users with more information than ever before.
 
 #### GitHub
   ##### Client-Server Architecture
