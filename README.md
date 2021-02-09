@@ -21,5 +21,7 @@ The power of micro-computing that smartphones provide to us allow for a wide ran
   
   On the otherhand, to perform action with programming language not known by the computer, access to a **server** will be required. The difference between client-side and server-side in this sense depends on what a user can do without being connected to the internet and what one can only do by being connected to the internet.
   
+  **GitHub desktop** is an example of the client-side - as the GitHub desktop tool is designed so users can interact and work with GitHub without connecting through their browser.
+  
   #### Cloud Computing
 ### Conclusion
