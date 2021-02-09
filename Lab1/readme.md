@@ -30,6 +30,8 @@ The power of micro-computing that smartphones provide to us allow for a wide ran
 GitHub allows for us to write and commit changes from one device and share them to any device that has permissions to our repository. Users with permissions are thus also able to edit and commit their own changes independent of their geographic location in relation to the initial user. 
 
 **The cloud** creates a shared space that exists anywhere (so long as there is internet connectivity) to make, share, and contribute ideas.
+
+Various examples of applications that rely on the server-side and utilize cloud computing include: Facebook, YouTube, and other internet communicator apps.
   
 ### Conclusion
 
