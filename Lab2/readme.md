@@ -13,6 +13,8 @@ The **central processing unit**, or **CPU**, can be thought of as the brains of 
 - Store data for longer term use. 
 - "Non-Volatile" storage, meaning data remains even after computer loses power.
 - Data is stored on a disk.
+Because Hard Disk Drives utilize an array of moving parts in their functioning, they can be somewhat complex and slow in efficiency. 
+**Solid State Drives (SSD)** have been popularized to escape the complexities and slower performance of HDD's.
 #### ALU and the Control Unit
 #### CPU, Input & Output
 #### Logic Gates and Circuits
