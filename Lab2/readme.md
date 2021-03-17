@@ -29,6 +29,14 @@ Depending on the instruction, the ALU may not output an answer but will instead 
 
 #### CPU, Input & Output
 #### Logic Gates and Circuits
+
+A **Logic Gate** is an electric circuit with two inputs and one output, the output depends upon the rule that the two inputs are filtered through.
+
+These rules by which the inputs are interpreted are the logic gates and there are several very common forms:
+
+**AND**, **OR**, **NOT**, **XOR (Exclusive Or)**, **NAND (NOT AND)**, and **NOR (NOT OR)**
+
+
 #### IEEE
 ## Data Representation
 #### Numeric Conversions
