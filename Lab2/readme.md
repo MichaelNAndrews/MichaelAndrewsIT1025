@@ -1,11 +1,11 @@
 # Executive Summary
 ## Hardware
-| **CPU      |                                                                                  |
+| CPU        |                                                                                  |
 |:----------:|----------------------------------------------------------------------------------|
 |RAM         | The computer's "working memory". Data in RAM is lost if computer loses power.    | 
-|Registers   |                                                                                  |
-|Buses       | Electrical connections between different computer components. The "data highway" |
-|ALU         |                                                                                  |
+|Registers   | Special memory locations that can be accessed quickly.                           |
+|Buses       | Electrical connections between different computer components. The "data highway".|
+|ALU         | "Arithmetic / Logic Unit". Performs all the calculations of the CPU.             |
 |Control Unit|                                                                                  |
 #### Hard Drives and Memory
 #### ALU and the Control Unit
