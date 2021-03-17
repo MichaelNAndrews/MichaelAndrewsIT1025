@@ -9,6 +9,10 @@ The **central processing unit**, or **CPU**, can be thought of as the brains of 
 |ALU         | "Arithmetic / Logic Unit". Performs all the calculations of the CPU.             |
 |Control Unit| Responsible for directing flow of instructions and data within CPU.              |
 #### Hard Drives and Memory
+**Hard Disk Drive (HDD)**
+- Store data for longer term use. 
+- "Non-Volatile" storage, meaning data remains even after computer loses power.
+- Data is stored on a disk.
 #### ALU and the Control Unit
 #### CPU, Input & Output
 #### Logic Gates and Circuits
