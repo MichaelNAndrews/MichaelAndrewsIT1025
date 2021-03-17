@@ -1,7 +1,6 @@
 # Executive Summary
 ## Hardware
-|:CPU:                            |                                                             |
-|(Central Processing Unit)        |                                                             |
+| **CPU** (Central Processing Unit)        |                                                    |
 |:----------:|----------------------------------------------------------------------------------|
 |RAM         | The computer's "working memory". Data in RAM is lost if computer loses power.    | 
 |Registers   | Special memory locations that can be accessed quickly.                           |
