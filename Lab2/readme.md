@@ -1,5 +1,10 @@
 # Executive Summary
 ## Hardware
+|CPU|
+|---|
+|   | 
+|   |
+|   |
 #### Hard Drives and Memory
 #### ALU and the Control Unit
 #### CPU, Input & Output
