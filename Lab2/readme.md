@@ -1,10 +1,12 @@
 # Executive Summary
 ## Hardware
-|CPU|
-|---|
-|   | 
-|   |
-|   |
+|CPU         |
+|------------|
+|RAM         | 
+|Registers   |
+|Buses       |
+|ALU         |
+|Control Unit|
 #### Hard Drives and Memory
 #### ALU and the Control Unit
 #### CPU, Input & Output
