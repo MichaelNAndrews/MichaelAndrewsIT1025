@@ -17,6 +17,9 @@ The **central processing unit**, or **CPU**, can be thought of as the brains of 
 Because Hard Disk Drives utilize an array of moving parts in their functioning, they can be somewhat complex and slow in efficiency. 
 
 **Solid State Drives (SSD)** have been popularized to escape the complexities and slower performance of HDD's.
+
+Information on SSD's can be accessed instantly, at the speed of light, so there is no latency experienced when data is transferred.
+
 #### ALU and the Control Unit
 #### CPU, Input & Output
 #### Logic Gates and Circuits
