@@ -54,7 +54,7 @@ These rules by which the inputs are interpreted are the logic gates and there ar
 |1      |0      |1     |
 |1      |1      |1     |
 
-**Not**(Inverter)
+**Not** (Inverter)
 |Input|Output|
 |:---:|:----:|
 |0    |1     |
