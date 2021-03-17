@@ -1,7 +1,7 @@
 # Executive Summary
 ## Hardware
 |CPU         |
-|------------|
+|:----------:|
 |RAM         | 
 |Registers   |
 |Buses       |
