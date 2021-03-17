@@ -8,7 +8,7 @@ The **central processing unit**, or **CPU**, can be thought of as the brains of 
 |Buses       | Electrical connections between different computer components. The "data highway".|
 |ALU         | "Arithmetic / Logic Unit". Performs all the calculations of the CPU.             |
 |Control Unit| Responsible for directing flow of instructions and data within CPU.              |
-#### Hard Drives and Memory
+### Hard Drives and Memory
 **Hard Disk Drive (HDD)**
 - Store data for longer term use. 
 - "Non-Volatile" storage, meaning data remains even after computer loses power.
@@ -20,15 +20,15 @@ Because Hard Disk Drives utilize an array of moving parts in their functioning, 
 
 Information on SSD's can be accessed instantly, at the speed of light, so there is no latency experienced when data is transferred.
 
-#### ALU and the Control Unit
+### ALU and the Control Unit
 The **control unit** receives instructions from RAM and then instructs the **Arithmetic/Logic Unit (ALU)** what operation to perform.
 
 The ALU will then perform the operation and provide an answer in the form of an output. 
 
 Depending on the instruction, the ALU may not output an answer but will instead use **"flags"** to help control unit determine what to do with next instruction.
 
-#### CPU, Input & Output
-#### Logic Gates and Circuits
+### CPU, Input & Output
+### Logic Gates and Circuits
 
 A **Logic Gate** is an electric circuit with two inputs and one output, the output depends upon the rule that the two inputs are filtered through.
 
@@ -46,8 +46,8 @@ These rules by which the inputs are interpreted are the logic gates and there ar
 |1      |0      |0     |
 |1      |1      |1     |
 
-#### IEEE
+### IEEE
 ## Data Representation
-#### Numeric Conversions
-#### Hexadecimal Color Representation
+### Numeric Conversions
+### Hexadecimal Color Representation
 # Conclusion
