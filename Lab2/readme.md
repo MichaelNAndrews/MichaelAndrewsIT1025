@@ -36,6 +36,13 @@ These rules by which the inputs are interpreted are the logic gates and there ar
 
 **AND**, **OR**, **NOT**, **XOR (Exclusive Or)**, **NAND (NOT AND)**, and **NOR (NOT OR)**
 
+**Truth Tables** can quickly summarize the corresponding output for any input of each logic gate:
+
+**And** (Output *only* with all inputs)
+|Input 1|Input 2|Output|
+:----------------------:
+|0      |0      |0     |
+
 
 #### IEEE
 ## Data Representation
