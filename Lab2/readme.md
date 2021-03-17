@@ -46,6 +46,16 @@ These rules by which the inputs are interpreted are the logic gates and there ar
 |1      |0      |0     |
 |1      |1      |1     |
 
+**Or** (Any input produces an output)
+|Input 1|Input 2|Output|
+|:-----:|:-----:|:----:|
+|0      |0      |0     |
+|0      |1      |1     |
+|1      |0      |1     |
+|1      |1      |1     |
+
+
+
 ### IEEE
 ## Data Representation
 ### Numeric Conversions
