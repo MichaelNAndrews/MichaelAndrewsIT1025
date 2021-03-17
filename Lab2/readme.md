@@ -1,6 +1,6 @@
 # Executive Summary
 ## Hardware
-|:CPU                                                                                          :|
+|CPU                                                                                            |
 |:----------:|----------------------------------------------------------------------------------|
 |RAM         | The computer's "working memory". Data in RAM is lost if computer loses power.    | 
 |Registers   |                                                                                  |
