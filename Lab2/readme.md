@@ -40,7 +40,7 @@ These rules by which the inputs are interpreted are the logic gates and there ar
 
 **And** (Output *only* with all inputs)
 |Input 1|Input 2|Output|
-:----------------------:
+|:-----:|:-----:|:----:|
 |0      |0      |0     |
 
 
