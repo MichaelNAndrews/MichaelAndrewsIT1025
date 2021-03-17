@@ -21,6 +21,12 @@ Because Hard Disk Drives utilize an array of moving parts in their functioning, 
 Information on SSD's can be accessed instantly, at the speed of light, so there is no latency experienced when data is transferred.
 
 #### ALU and the Control Unit
+The **control unit** receives instructions from RAM and then instructs the **Arithmetic/Logic Unit (ALU)** what operation to perform.
+
+The ALU will then perform the operation and provide an answer in the form of an output. 
+
+Depending on the instruction, the ALU may not output an answer but will instead use **"flags"** to help control unit determine what to do with next instruction.
+
 #### CPU, Input & Output
 #### Logic Gates and Circuits
 #### IEEE
