@@ -1,5 +1,6 @@
 # Executive Summary
 ## Hardware
+The **central processing unit**, or **CPU**, can be thought of as the brains of the computer.
 | **CPU** (Central Processing Unit)        |                                                    |
 |:----------:|----------------------------------------------------------------------------------|
 |RAM         | The computer's "working memory". Data in RAM is lost if computer loses power.    | 
