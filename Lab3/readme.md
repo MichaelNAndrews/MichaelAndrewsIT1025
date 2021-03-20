@@ -18,6 +18,9 @@ Centralized database software application that can be implemented for organizati
 Examples of popular Enterprise Resource Planning (ERP) software include Microsoft Dynamics and NetSuite by Oracle.
 
 ## Virtualization
+
+**Virtualization** allows you to create multiple simulated environments or dedicated resources from a single, physical hardware system.
+
 ## Python
 ## Career Exploration
 #### College Central
