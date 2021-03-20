@@ -23,6 +23,8 @@ Examples of popular Enterprise Resource Planning (ERP) software include Microsof
 
 This process allows you to use a physical machine’s full capacity by distributing its capabilities among many users or environments, thereby allowing a business to get the most value from previous investments in hardware.
 
+Virtualization is made possible by a **hypervisor**  which is software that connects directly to  hardware and allows you to split a single system into separate, distinct, and secure environments known as **virtual machines**. 
+
 ## Python
 ## Career Exploration
 #### College Central
