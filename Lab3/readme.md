@@ -30,6 +30,11 @@ Virtualization is made possible by a **hypervisor**  which is software that conn
 While the two may often be confused with one another, virtualization should be regarded as a **_technology_** and cloud computing should be regarded as an **_implemented practice_** or **_methodolgy_**. 
 
 ## Python
+
+**Python** is a programming language that is distinguished by its simple and easy to read format which has gave way to its notoriety as a *Pseudo-Code Language*.
+
+Python is regarded to as pseudo-code because it reads more like English than code which allows for more emphasis on problem-solving than the language syntax and coding nuances.
+
 ## Career Exploration
 #### College Central
 #### Certifications
