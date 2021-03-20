@@ -21,7 +21,7 @@ Examples of popular Enterprise Resource Planning (ERP) software include Microsof
 
 **Virtualization** allows you to create multiple simulated environments or dedicated resources from a single, physical hardware system.
 
-This process allows you to use a physical machine’s full capacity by distributing its capabilities among many users or environments.
+This process allows you to use a physical machine’s full capacity by distributing its capabilities among many users or environments, thereby allowing a business to get the most value from previous investments in hardware.
 
 ## Python
 ## Career Exploration
