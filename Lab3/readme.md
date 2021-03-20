@@ -1,7 +1,7 @@
 ## Executive Summary
 ## Software
 
-**The set of instructions that tells the hardware what to do.**
+"**The set of instructions that tells the hardware what to do.**"
 
 |Operating System|
 |:--------------:|
