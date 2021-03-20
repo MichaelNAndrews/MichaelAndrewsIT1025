@@ -6,7 +6,8 @@
 |Operating System|
 |:--------------:|
 |Manages the hardware and creates the interface between the hardware and the user.|
-|Application Software|
+|**Application Software**|
+|:---:|
 |Utilized directly to accomplish a specific goal.|
 
 
