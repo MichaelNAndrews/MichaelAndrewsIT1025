@@ -3,12 +3,12 @@
 
 **The set of instructions that tells the hardware what to do.**
 
-|Operating System|
+|:Operating System|
 |:--------------:|
 |Manages the hardware and creates the interface between the hardware and the user.|
-|**Application Software**|
+|:**Application Software**|
 |Utilized directly to accomplish a specific goal.|
-|**Utility Software**|
+|:**Utility Software**|
 |Programs that allow you to fix or modify your computer in someway.|
 
 ## Virtualization
