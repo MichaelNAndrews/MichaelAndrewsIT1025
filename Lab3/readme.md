@@ -5,7 +5,7 @@
 
 |Operating System|
 |:--------------:|
-|manage the hardware and create the interface between the hardware and the user.|
+|Manages the hardware and creates the interface between the hardware and the user.|
 
 ## Virtualization
 ## Python
