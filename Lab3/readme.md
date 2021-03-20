@@ -25,6 +25,10 @@ This process allows you to use a physical machine’s full capacity by distribut
 
 Virtualization is made possible by a **hypervisor**  which is software that connects directly to  hardware and allows you to split a single system into separate, distinct, and secure environments known as **virtual machines**. 
 
+### Virtualization vs. Cloud Computing
+
+While the two may often be confused with one another, virtualization should be regarded as a **_technology_** and cloud computing should be regarded as an **_implemented practice_** or **_methodolgy_**. 
+
 ## Python
 ## Career Exploration
 #### College Central
