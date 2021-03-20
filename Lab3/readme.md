@@ -13,7 +13,9 @@
 
 **Enterprise Resource Planning System/Software**
 
-Centralized database software that can be implemented for organizations (large and small) to help manage and review information essential to daily operations.
+Centralized database software application that can be implemented for organizations (large and small) to help manage and review information essential to daily operations.
+
+Examples of popular Enterprise Resource Planning (ERP) software include Microsoft Dynamics and NetSuite by Oracle.
 
 ## Virtualization
 ## Python
