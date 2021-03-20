@@ -11,6 +11,10 @@
 |**Utility Software**|
 |Programs that allow you to fix or modify your computer in someway.|
 
+**Enterprise Resource Planning System/Software**
+
+Centralized database software that can be implemented for organizations (large and small) to help manage and review information essential to daily operations.
+
 ## Virtualization
 ## Python
 ## Career Exploration
