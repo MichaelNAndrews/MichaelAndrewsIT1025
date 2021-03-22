@@ -29,6 +29,8 @@ Virtualization is made possible by a **hypervisor**  which is software that conn
 
 While the two may often be confused with one another, virtualization should be regarded as a **_technology_** and cloud computing should be regarded as an **_implemented practice_** or **_methodolgy_**. 
 
+One major distinction between virtualization and cloud computing is that virtualization requires a user to interact with a device via a hypervisor, whereas cloud computing does not require constant user interaction and is in this sense more automated.
+
 ## Python
 
 **Python** is a programming language that is distinguished by its simple and easy to read format which has gave way to its notoriety as a *Pseudo-Code Language*.
